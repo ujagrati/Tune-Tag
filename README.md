@@ -46,8 +46,8 @@ Contributions to TuneTag are welcome! To contribute:
     - Commit your changes (git commit -am 'Add new feature').
     - Push to the branch (git push origin feature/your-feature).
     - Create a new Pull Request.
-    
-![Alt Text](TuneTag1.png)
+![Alt Text](TuneTag2.jpg)
+![Alt Text](TuneTag1.jpg)
 
 
 ## License
