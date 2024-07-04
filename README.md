@@ -46,6 +46,14 @@ Contributions to TuneTag are welcome! To contribute:
     - Commit your changes (git commit -am 'Add new feature').
     - Push to the branch (git push origin feature/your-feature).
     - Create a new Pull Request.
+
+### References
+- [How does Shazam work](http://coding-geek.com/how-shazam-works/)
+- [Audio fingerprinting and recognition in Python](https://github.com/worldveil/dejavu) - thanks for fingerprinting login via pynum
+- [Audio Fingerprinting with Python and Numpy](http://willdrevo.com/fingerprinting-and-audio-recognition-with-python/)
+- [Shazam It! Music Recognition Algorithms, Fingerprinting, and Processing](https://www.toptal.com/algorithms/shazam-it-music-processing-fingerprinting-and-recognition)
+- [Creating Shazam in Java](http://royvanrijn.com/blog/2010/06/creating-shazam-in-java/)
+- [Shazam Clone Method](https://github.com/itspoma/audio-fingerprint-identifying-python.git)
 ![Alt Text](TuneTag2.jpg)
 ![Alt Text](TuneTag1.jpg)
 
